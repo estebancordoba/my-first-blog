@@ -16,3 +16,5 @@ python manage.py migrate blog
 python manage.py createsuperuser
 
 git init
+
+python manage.py shell
